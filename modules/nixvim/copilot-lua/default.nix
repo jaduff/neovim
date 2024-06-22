@@ -52,7 +52,7 @@ with lib.plusultra; {
         javascript = true;
         typescript = true;
         css = true;
-        rust = true;
+        rust = false;
         python = true;
         java = true;
         c = true;
