@@ -87,9 +87,9 @@ with lib.plusultra; {
         lua-ls.enable = true;
         pyright.enable = true;
         rust-analyzer = {
-          enable = true;
-          installCargo = true;
-          installRustc = true;
+          enable = false;
+          installCargo = false;
+          installRustc = false;
         };
         tailwindcss.enable = true;
         tsserver = {
