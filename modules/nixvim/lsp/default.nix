@@ -86,11 +86,6 @@ with lib.plusultra; {
         jsonls.enable = true;
         lua-ls.enable = true;
         pyright.enable = true;
-        rust-analyzer = {
-          enable = false;
-          installCargo = false;
-          installRustc = false;
-        };
         tailwindcss.enable = true;
         tsserver = {
           enable = true;
