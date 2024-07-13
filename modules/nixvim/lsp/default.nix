@@ -158,7 +158,7 @@ in
       };
       nushell.enable = true;
       perlpls.enable = true;
-      phpactor.enable = true;
+      phpactor.enable = false;
       prismals.enable = true;
       pyright.enable = true;
 
